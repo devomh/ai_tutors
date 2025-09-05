@@ -30,20 +30,24 @@
 - **Description:** Work with Python's built-in data structures: lists, tuples, dictionaries, and sets.
 - **Keywords:** data structures, lists, tuples, dictionaries, sets
 
-### 8. Error Handling
+### 8. Advanced Data Structures and String Manipulation
+- **Description:** Advanced concepts combining strings, lists, dictionaries, loops, and JSON for comprehensive data processing and real-world applications.
+- **Keywords:** strings, lists, dictionaries, loops, json, data manipulation, f-strings, comprehensions, file operations
+
+### 9. Error Handling
 - **Description:** Handle errors and exceptions in your code to make it more robust.
 - **Keywords:** errors, exceptions, try, except
 
-### 9. File I/O
+### 10. File I/O
 - **Description:** Read from and write to files, including text files and CSV.
 - **Keywords:** files, file io, csv
 
 ## Essential Developer Tools
 
-### 10. Git and GitHub
+### 11. Git and GitHub
 - **Description:** An introduction to version control with Git and collaboration on GitHub.
 - **Keywords:** git, github, version control
 
-### 11. IDEs and APIs
+### 12. IDEs and APIs
 - **Description:** An overview of Integrated Development Environments (IDEs) and how to interact with Application Programming Interfaces (APIs).
 - **Keywords:** ide, api, vscode
